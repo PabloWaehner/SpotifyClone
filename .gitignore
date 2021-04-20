@@ -1,2 +1,4 @@
 .DS_STORE
 includes/config.php
+db/conn.php
+assets/music/
